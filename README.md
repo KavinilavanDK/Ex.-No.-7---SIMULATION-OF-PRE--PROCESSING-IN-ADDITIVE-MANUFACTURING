@@ -46,8 +46,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/f568338f-3ed6-4468-9838-ee94cacc3b68)
 
-### Name:HAREESH R
-### Register Number:212223230068
+### Name:KAVINILAVAN DK
+### Register Number:212223230103
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
